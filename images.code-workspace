@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "images",
+			"path": "../../PACMAN-JUAN-main/PACMAN-JUAN-main/images"
+		},
+		{
+			"name": "Trex_Etapa_0.5-main",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Trex_Etapa_0.5-main"
+	}
+}
